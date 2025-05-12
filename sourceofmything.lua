@@ -1,4 +1,3 @@
-ilove kjhfahgdfhjkfhdk ohio gyatt this will error the script
 local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/LuaU-Free-Key-System-UI/main/source.lua"))()
 local KeyValid = false
 local response = KeySystem:Init({
